@@ -1,0 +1,9 @@
+.svn
+build
+libpng.xcodeproj
+Debug/
+Relase/
+
+*.user
+*.sln
+*.vcproj
